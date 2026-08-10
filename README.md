@@ -1,21 +1,70 @@
-# 💫 About Me:
-I am Seth Yuri Quilla, for now this is just a platform for me to put out some personal and school projects, I'm still learning, trying to gitgud.
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00C9A7&height=200&section=header&text=Seth%20Yuri%20Quilla&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Tryna%20gitgud&descAlignY=55&descSize=18" width="100%"/>
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/@wahahahayor) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@yor_eeeee) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/u/sethquilla10) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@@yorrrrr__) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sethyuri363@gmail.com) 
+</div>
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=yellowZip7&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=yellowZip7&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=yellowZip7&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<h2 align="center">About Me</h2>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=yellowZip7&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center">
+Hi, I'm <b>Seth</b> — currently using this space to put out my personal and school projects.<br/>
+Still learning, still building, still leveling up.
+</p>
 
----
-[![](https://komarev.com/ghpvc/?username=yellowZip7&icon=0&color=9)](https://visitcount.itsvg.in)
+<br/>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<h2 align="center">Languages</h2>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=java,js" />
+</div>
+
+<br/>
+
+<h2 align="center">Database</h2>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=mysql" />
+</div>
+
+<br/>
+
+<h2 align="center">Tools / Platforms</h2>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=idea,vscode,figma,ps,linux" />
+</div>
+
+<br/>
+
+<h2 align="center">Socials</h2>
+<div align="center">
+
+<a href="https://facebook.com/wahahahayor" target="_blank">
+  <img src="https://img.shields.io/badge/Facebook-%40wahahahayor-8A2BE2?style=for-the-badge&logo=facebook&logoColor=white" />
+</a>
+<a href="https://instagram.com/yor_eeeee" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-yor__eeeee-8A2BE2?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+<a href="https://tiktok.com/@yorrrrr__" target="_blank">
+  <img src="https://img.shields.io/badge/TikTok-%40yorrrrr__-00C9A7?style=for-the-badge&logo=tiktok&logoColor=white" />
+</a>
+<a href="https://reddit.com/user/sethquilla10" target="_blank">
+  <img src="https://img.shields.io/badge/Reddit-u%2Fsethquilla10-00C9A7?style=for-the-badge&logo=reddit&logoColor=white" />
+</a>
+<a href="mailto:sethyuri363@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Email-sethyuri363%40gmail.com-8A2BE2?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yellowZip7&show_icons=true&theme=radical&hide_border=true&title_color=00C9A7&icon_color=8A2BE2&text_color=ffffff&bg_color=0D1117" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yellowZip7&theme=radical&hide_border=true&background=0D1117&ring=8A2BE2&fire=00C9A7&currStreakLabel=00C9A7" width="48%" />
+</div>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9A7,100:8A2BE2&height=100&section=footer"/>
+
+</div>
+```
