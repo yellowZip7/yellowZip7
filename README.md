@@ -1,3 +1,8 @@
+<table align="center" bgcolor="#F5E6A0" cellpadding="14" cellspacing="0">
+<tr><td>
+<table align="center" cellpadding="20" cellspacing="0">
+<tr><td>
+
 <div align="center">
 
 <img src="./idle.gif" width="140" alt="idle animation" />
@@ -23,6 +28,8 @@ Still learning, still building, still leveling up.
 
 <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 
 </div>
 
@@ -83,3 +90,8 @@ Still learning, still building, still leveling up.
 <div align="center">
   <sub>thanks for stopping by</sub>
 </div>
+
+</td></tr>
+</table>
+</td></tr>
+</table>
