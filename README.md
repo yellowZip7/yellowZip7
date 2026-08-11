@@ -2,13 +2,14 @@
 
 <img src="./banner.gif" width="100%" alt="banner" />
 
-<br/><br/>
+<br/>
+<hr/>
 
 <p><b><font size="6">About Me</font></b></p>
 
 <p>
-Hi, I'm <b>Seth</b> — currently using this space to put out my personal and school projects.<br/>
-Still learning, still building, still leveling up.
+Hi, I'm <b>Seth</b>, for now using this space to put out my personal and school projects.<br/>
+Still learning, also I'm bisaya.
 </p>
 
 <hr/>
@@ -58,7 +59,7 @@ Still learning, still building, still leveling up.
 
 <hr/>
 
-<sub>thanks for stopping by</sub>
+<sub>Thanks for stopping by!!!</sub>
 
 <br/><br/>
 
