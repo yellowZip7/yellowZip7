@@ -1,5 +1,7 @@
 <div align="center">
 
+<hr/>
+
 <img src="./banner.gif" width="100%" alt="banner" />
 
 <br/>
@@ -51,7 +53,7 @@ Still learning, and also I'm bisaya.
 </tr>
 
 <tr>
-<td><b>B.U.I.L.D</b></td>
+<td><b>B.U.I.L.D</b> Building and Utility Integrated Logistics Database</td>
 <td>A Java desktop application for managing construction/building operations. Centralizes project tracking, task assignment, workforce records, material/resource inventory, and budget monitoring behind a role-based (Admin / Worker) login system, backed by a MySQL database.</td>
 <td>
 <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" /><br/><br/>
