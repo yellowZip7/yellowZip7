@@ -65,14 +65,6 @@ Still learning, and I'm bisaya
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=yellowZip7&show_icons=true&hide_border=true&title_color=1a1614&icon_color=1a1614&text_color=1a1614&bg_color=F5E6A0" width="90%" />
-
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yellowZip7&hide_border=true&background=F5E6A0&ring=1a1614&fire=1a1614&currStreakLabel=1a1614&sideNums=1a1614&stroke=1a1614" width="90%" />
-
-<br/><br/>
-
 <sub>Thanks for stopping by!!!</sub>
 
 </div>
