@@ -5,7 +5,7 @@
 <br/>
 <hr/>
 
-<p><b><font size="6">About Me</font></b></p>
+<p><b><font size="6">Me</font></b></p>
 
 <p>
 Hi, I'm <b>Seth</b>. Just for now I'm using this space to put out my personal and school projects.<br/>
