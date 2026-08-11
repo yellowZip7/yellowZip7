@@ -1,5 +1,8 @@
-<table align="center" bgcolor="#F5E6A0" cellpadding="16" cellspacing="0" width="100%">
-<tr><td align="center">
+<div align="center">
+
+<img src="./border-bar.png" width="100%" height="10" alt="" />
+
+<br/><br/>
 
 <img src="./idle.gif" width="110" alt="idle animation" />
 
@@ -8,16 +11,16 @@
 
 <br/>
 
-<h2 align="center">About Me</h2>
+<p><b><font size="5">About Me</font></b></p>
 
-<p align="center">
+<p>
 Hi, I'm <b>Seth</b> — currently using this space to put out my personal and school projects.<br/>
 Still learning, still building, still leveling up.
 </p>
 
 <br/>
 
-<h2 align="center">Languages</h2>
+<p><b><font size="5">Languages</font></b></p>
 
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
@@ -26,13 +29,13 @@ Still learning, still building, still leveling up.
 
 <br/><br/>
 
-<h2 align="center">Database</h2>
+<p><b><font size="5">Database</font></b></p>
 
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
 
 <br/><br/>
 
-<h2 align="center">Tools / Platforms</h2>
+<p><b><font size="5">Tools / Platforms</font></b></p>
 
 <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white" />
 <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
@@ -42,7 +45,7 @@ Still learning, still building, still leveling up.
 
 <br/><br/>
 
-<h2 align="center">Socials</h2>
+<p><b><font size="5">Socials</font></b></p>
 
 <a href="https://facebook.com/wahahahayor" target="_blank">
   <img src="https://img.shields.io/badge/Facebook-%40wahahahayor-1877F2?style=flat-square&logo=facebook&logoColor=white" />
@@ -70,7 +73,10 @@ Still learning, still building, still leveling up.
 
 <br/><br/>
 
-<sub>Thanks for stopping by!</sub>
+<sub>thanks for stopping by</sub>
 
-</td></tr>
-</table>
+<br/><br/>
+
+<img src="./border-bar.png" width="100%" height="10" alt="" />
+
+</div>
