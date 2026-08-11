@@ -43,19 +43,19 @@ Still learning, also I'm bisaya.
 
 <table>
 <tr>
-<th>Project</th>
-<th>Description</th>
-<th>Tech Used</th>
-<th>Link</th>
+<th width="140">Project</th>
+<th width="320">Description</th>
+<th width="360">Tech Used</th>
+<th width="80">Link</th>
 </tr>
 
 <tr>
 <td><b>B.U.I.L.D</b></td>
 <td>A Java desktop application for managing construction/building operations. Centralizes project tracking, task assignment, workforce records, material/resource inventory, and budget monitoring behind a role-based (Admin / Worker) login system, backed by a MySQL database.</td>
 <td>
-<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/Swing-007396?style=for-the-badge&logo=java&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" /><br/><br/>
+<img src="https://img.shields.io/badge/Swing-007396?style=for-the-badge&logo=java&logoColor=white" /><br/><br/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /><br/><br/>
 <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" />
 </td>
 <td><a href="https://github.com/yellowZip7/B.U.I.L.D" target="_blank">Repo</a></td>
