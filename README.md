@@ -45,7 +45,7 @@ Still learning, also I'm bisaya.
 <tr>
 <th width="140">Project</th>
 <th width="320">Description</th>
-<th width="360">Tech Used</th>
+<th width="360">Technology Used</th>
 <th width="80">Link</th>
 </tr>
 
