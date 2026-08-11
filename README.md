@@ -15,7 +15,7 @@
 
 <p>
 Hi, I'm <b>Seth</b> — currently using this space to put out my personal and school projects.<br/>
-Still learning, still building, still leveling up.
+Still learning, and I'm bisaya
 </p>
 
 <br/>
@@ -73,7 +73,7 @@ Still learning, still building, still leveling up.
 
 <br/><br/>
 
-<sub>thanks for stopping by</sub>
+<sub>Thanks for stopping by!!!</sub>
 
 <br/><br/>
 
