@@ -1,11 +1,12 @@
-<table align="center" bgcolor="#F5E6A0" cellpadding="14" cellspacing="0">
+
+<table align="center" bgcolor="#F5E6A0" cellpadding="10" cellspacing="0" width="100%">
 <tr><td>
-<table align="center" cellpadding="20" cellspacing="0">
+<table align="center" cellpadding="16" cellspacing="0" width="100%">
 <tr><td>
 
 <div align="center">
 
-<img src="./idle.gif" width="140" alt="idle animation" />
+<img src="./idle.gif" width="110" alt="idle animation" />
 
 <h1>Seth Yuri Quilla</h1>
 <p><i>Tryna gitgud</i></p>
@@ -26,10 +27,10 @@ Still learning, still building, still leveling up.
 <h2 align="center">Languages</h2>
 <div align="center">
 
-<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
 
 </div>
 
@@ -38,7 +39,7 @@ Still learning, still building, still leveling up.
 <h2 align="center">Database</h2>
 <div align="center">
 
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
 
 </div>
 
@@ -47,11 +48,11 @@ Still learning, still building, still leveling up.
 <h2 align="center">Tools / Platforms</h2>
 <div align="center">
 
-<img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" />
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-<img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" />
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+<img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white" />
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
+<img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
 
 </div>
 
@@ -61,19 +62,19 @@ Still learning, still building, still leveling up.
 <div align="center">
 
 <a href="https://facebook.com/wahahahayor" target="_blank">
-  <img src="https://img.shields.io/badge/Facebook-%40wahahahayor-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  <img src="https://img.shields.io/badge/Facebook-%40wahahahayor-1877F2?style=flat-square&logo=facebook&logoColor=white" />
 </a>
 <a href="https://instagram.com/yor_eeeee" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-yor__eeeee-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  <img src="https://img.shields.io/badge/Instagram-yor__eeeee-E4405F?style=flat-square&logo=instagram&logoColor=white" />
 </a>
 <a href="https://tiktok.com/@yorrrrr__" target="_blank">
-  <img src="https://img.shields.io/badge/TikTok-%40yorrrrr__-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
+  <img src="https://img.shields.io/badge/TikTok-%40yorrrrr__-000000?style=flat-square&logo=tiktok&logoColor=white" />
 </a>
 <a href="https://reddit.com/user/sethquilla10" target="_blank">
-  <img src="https://img.shields.io/badge/Reddit-u%2Fsethquilla10-FF4500?style=for-the-badge&logo=reddit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Reddit-u%2Fsethquilla10-FF4500?style=flat-square&logo=reddit&logoColor=white" />
 </a>
 <a href="mailto:sethyuri363@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Email-sethyuri363%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Email-sethyuri363%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" />
 </a>
 
 </div>
@@ -81,8 +82,13 @@ Still learning, still building, still leveling up.
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yellowZip7&show_icons=true&hide_border=true&title_color=1a1614&icon_color=1a1614&text_color=1a1614&bg_color=F5E6A0" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yellowZip7&hide_border=true&background=F5E6A0&ring=1a1614&fire=1a1614&currStreakLabel=1a1614&sideNums=1a1614&stroke=1a1614" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yellowZip7&show_icons=true&hide_border=true&title_color=1a1614&icon_color=1a1614&text_color=1a1614&bg_color=F5E6A0" width="90%" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yellowZip7&hide_border=true&background=F5E6A0&ring=1a1614&fire=1a1614&currStreakLabel=1a1614&sideNums=1a1614&stroke=1a1614" width="90%" />
 </div>
 
 <br/>
