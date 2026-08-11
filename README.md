@@ -1,21 +1,14 @@
 <div align="center">
 
-<img src="./border-bar.png" width="100%" height="10" alt="" />
+<img src="./banner.gif" width="100%" alt="banner" />
 
 <br/><br/>
-
-<img src="./idle.gif" width="110" alt="idle animation" />
-
-<h1>Seth Yuri Quilla</h1>
-<p><i>Tryna gitgud</i></p>
-
-<br/>
 
 <p><b><font size="5">About Me</font></b></p>
 
 <p>
 Hi, I'm <b>Seth</b> — currently using this space to put out my personal and school projects.<br/>
-Still learning, and I'm bisaya
+Still learning, still building, still leveling up.
 </p>
 
 <br/>
@@ -65,6 +58,10 @@ Still learning, and I'm bisaya
 
 <br/><br/>
 
-<sub>Thanks for stopping by!!!</sub>
+<sub>thanks for stopping by</sub>
+
+<br/><br/>
+
+<img src="./border-bar.png" width="100%" height="10" alt="" />
 
 </div>
