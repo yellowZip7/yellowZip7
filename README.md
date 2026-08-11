@@ -1,17 +1,10 @@
-
-<table align="center" bgcolor="#F5E6A0" cellpadding="10" cellspacing="0" width="100%">
-<tr><td>
-<table align="center" cellpadding="16" cellspacing="0" width="100%">
-<tr><td>
-
-<div align="center">
+<table align="center" bgcolor="#F5E6A0" cellpadding="16" cellspacing="0" width="100%">
+<tr><td align="center">
 
 <img src="./idle.gif" width="110" alt="idle animation" />
 
 <h1>Seth Yuri Quilla</h1>
 <p><i>Tryna gitgud</i></p>
-
-</div>
 
 <br/>
 
@@ -25,28 +18,21 @@ Still learning, still building, still leveling up.
 <br/>
 
 <h2 align="center">Languages</h2>
-<div align="center">
 
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" />
 
-</div>
-
-<br/>
+<br/><br/>
 
 <h2 align="center">Database</h2>
-<div align="center">
 
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
 
-</div>
-
-<br/>
+<br/><br/>
 
 <h2 align="center">Tools / Platforms</h2>
-<div align="center">
 
 <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white" />
 <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
@@ -54,12 +40,9 @@ Still learning, still building, still leveling up.
 <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white" />
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
 
-</div>
-
-<br/>
+<br/><br/>
 
 <h2 align="center">Socials</h2>
-<div align="center">
 
 <a href="https://facebook.com/wahahahayor" target="_blank">
   <img src="https://img.shields.io/badge/Facebook-%40wahahahayor-1877F2?style=flat-square&logo=facebook&logoColor=white" />
@@ -77,27 +60,17 @@ Still learning, still building, still leveling up.
   <img src="https://img.shields.io/badge/Email-sethyuri363%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" />
 </a>
 
-</div>
+<br/><br/>
 
-<br/>
+<img src="https://github-readme-stats.vercel.app/api?username=yellowZip7&show_icons=true&hide_border=true&title_color=1a1614&icon_color=1a1614&text_color=1a1614&bg_color=F5E6A0" width="90%" />
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yellowZip7&show_icons=true&hide_border=true&title_color=1a1614&icon_color=1a1614&text_color=1a1614&bg_color=F5E6A0" width="90%" />
-</div>
+<br/><br/>
 
-<br/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=yellowZip7&hide_border=true&background=F5E6A0&ring=1a1614&fire=1a1614&currStreakLabel=1a1614&sideNums=1a1614&stroke=1a1614" width="90%" />
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yellowZip7&hide_border=true&background=F5E6A0&ring=1a1614&fire=1a1614&currStreakLabel=1a1614&sideNums=1a1614&stroke=1a1614" width="90%" />
-</div>
+<br/><br/>
 
-<br/>
+<sub>Thanks for stopping by!</sub>
 
-<div align="center">
-  <sub>thanks for stopping by</sub>
-</div>
-
-</td></tr>
-</table>
 </td></tr>
 </table>
