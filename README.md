@@ -75,8 +75,4 @@ Still learning, and I'm bisaya
 
 <sub>Thanks for stopping by!!!</sub>
 
-<br/><br/>
-
-<img src="./border-bar.png" width="100%" height="10" alt="" />
-
 </div>
