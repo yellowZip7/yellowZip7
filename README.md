@@ -6,8 +6,6 @@
 
 <img src="./banner.gif" width="100%" alt="banner" />
 
-<img src="./border-bar.png" width="100%" height="10" alt="" />
-
 <br/>
 <hr/>
 
@@ -97,5 +95,7 @@ Still learning, and also I'm bisaya.
 <br/><br/>
 
 <img src="./border-bar.png" width="100%" height="10" alt="" />
+
+<hr/>
 
 </div>
