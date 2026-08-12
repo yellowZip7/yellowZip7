@@ -92,9 +92,6 @@ Still learning, and also I'm bisaya.
 
 <p><b><font size="6">Thanks for stopping by!</font></b></p>
 
-
-<br/><br/>
-
 <img src="./border-bar.png" width="100%" height="10" alt="" />
 
 <hr/>
