@@ -70,10 +70,10 @@ Still learning, and also I'm bisaya.
 <td><b>Swapr</b></td>
 <td>A student-to-student marketplace designed specifically for buying, selling, and finding school-related items and academic resources. The platform combines trusted user ratings, category-specific listings, price negotiation, and "Wanted" posts to create a convenient and community-driven marketplace for students.</td>
 <td>
------
+----------
 </td>
 <td><img src="https://img.shields.io/badge/Planning-F8F9FA?style=for-the-badge" /></td>
-<td><a href="https://github.com/yellowZip7/Swapr" target="_blank">Repo</a></td>
+<td>-------</td>
 </tr>
 
 </table>
