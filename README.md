@@ -5,12 +5,13 @@
 <img src="./border-bar.png" width="100%" height="10" alt="" />
 
 <img src="./banner.gif" width="100%" alt="banner" />
+
 <img src="./border-bar.png" width="100%" height="10" alt="" />
 
 <br/>
 <hr/>
 
-<p><b><font size="6">Me</font></b></p>
+<p><b><font size="6">Me n Stuff</font></b></p>
 
 <p>
 Hi, I'm <b>Seth</b>. Just for now, I'm using this space to put out my personal and school projects.<br/>
