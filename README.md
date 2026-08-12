@@ -2,7 +2,11 @@
 
 <hr/>
 
+<img src="./border-bar.png" width="100%" height="10" alt="" />
+
 <img src="./banner.gif" width="100%" alt="banner" />
+
+<img src="./border-bar.png" width="100%" height="10" alt="" />
 
 <br/>
 <hr/>
