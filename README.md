@@ -70,7 +70,9 @@ Still learning, and also I'm bisaya.
 <td><b>GateWise</b></td>
 <td>Logs visitor sign-ins and outs at a campus gate while tracking security incidents separately. Visitor IDs are hashed for quick sign-out lookup and a live “who’s currently on campus” view. Incident numbers are also hashed for fast case retrieval, making collision handling easy to demonstrate with sequential visitor IDs.</td>
 <td>
-----------
+<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" /><br/><br/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /><br/><br/>
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
 </td>
 <td><img src="https://img.shields.io/badge/In Development-FF4D00?style=for-the-badge" /></td>
 <td>-------</td>
