@@ -75,7 +75,7 @@ Still learning, and also I'm bisaya.
 <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
 </td>
 <td><img src="https://img.shields.io/badge/In Development-FF4D00?style=for-the-badge" /></td>
-<td>-------</td>
+<td><a href="https://github.com/yellowZip7/GateWise" target="_blank">Repo</a></td>
 </tr>
 
 <tr>
