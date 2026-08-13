@@ -67,6 +67,16 @@ Still learning, and also I'm bisaya.
 </tr>
 
 <tr>
+<td><b>GateWise</b></td>
+<td>Logs visitor sign-ins and outs at a campus gate while tracking security incidents separately. Visitor IDs are hashed for quick sign-out lookup and a live “who’s currently on campus” view. Incident numbers are also hashed for fast case retrieval, making collision handling easy to demonstrate with sequential visitor IDs.</td>
+<td>
+----------
+</td>
+<td><img src="https://img.shields.io/badge/In Development-FF4D00?style=for-the-badge" /></td>
+<td>-------</td>
+</tr>
+
+<tr>
 <td><b>Swapr</b></td>
 <td>A student-to-student marketplace designed specifically for buying, selling, and finding school-related items and academic resources. The platform combines trusted user ratings, category-specific listings, price negotiation, and "Wanted" posts to create a convenient and community-driven marketplace for students.</td>
 <td>
